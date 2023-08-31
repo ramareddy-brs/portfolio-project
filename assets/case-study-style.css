@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .name {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .title {
+    margin: 5px 0;
+    font-size: 18px;
+  }
+  
+  .contact {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .summary {
+    font-size: 16px;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skill {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .work-info {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .work-date {
+    font-size: 14px;
+    float: right;
+  }
+  
+  .work-description {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 30px;
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
+  .footer p a i {
+    vertical-align: middle;
+    color: white;
+  }
+  .footer p {
+    font-size: 20px;
+  }
+  #homeButton {
+    text-decoration: none;
+    color: orange;
+    font-size: 18px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: yellow;
+  }
