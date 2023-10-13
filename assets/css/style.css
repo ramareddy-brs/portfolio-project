@@ -268,3 +268,11 @@ section img {
     width: 500px;
     height: 350px;
 }
+.blueorigin-image {
+    width: 500px;
+    height: 370px;
+    box-shadow: none;
+}
+.blueorigin-content {
+    padding-left: 20px;
+}
