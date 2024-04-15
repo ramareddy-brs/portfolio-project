@@ -263,6 +263,7 @@ section img {
     font-family: "lato";
     color: white;
     font-size: 25px;
+    cursor: pointer;
 }
 .Travel-image {
     width: 500px;
